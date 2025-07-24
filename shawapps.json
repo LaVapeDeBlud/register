@@ -4,8 +4,6 @@
         "email": "aydenang69@gmail.com"
     },
     "records": {
-        "CNAME": "cname.vercel-dns.com"
-        "A": "216.198.79.1"
-        "TXT": "vc-domain-verify=shawapps.is-a.dev,bc931f0a58313ae8cbd9"
+       "A": ["216.198.79.1"]
     }
 }
